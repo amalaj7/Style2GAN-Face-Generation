@@ -1,3 +1,3 @@
 # Style2GAN-Face-Generation
 
-- Done on Google Colab
+- Open on Google Colab
